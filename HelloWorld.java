@@ -1,7 +1,8 @@
 import java.applet.Applet;
 import java.awt.Graphics;
 /*
-<applet code="AppletMax3.java"width=200 height=60>
+<applet code="HelloWorld.java"width=200 height=60>
+</applet>
 */
 
 //HelloWorld class extends Applet
